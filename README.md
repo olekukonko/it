@@ -1,4 +1,4 @@
-# `it` - Advanced Iterator Utility for Go
+# `it` - Buffered Iterator Utility for Go
 
 The `it` package provides a powerful and flexible iterator for Go, enabling buffered iteration over any `iter.Seq[T]` sequence with advanced features like peeking, seeking, rewinding, and configurable buffer management. It supports various data sources (slices, channels, maps, and IO readers) and is optimized for performance and memory efficiency.
 
